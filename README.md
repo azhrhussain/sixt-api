@@ -55,3 +55,5 @@ To simplifies handling immutable data in ease
 
 ### React Testing library with JEST
 For writing unit test
+## System:
+Chrome, WINDOWS 10, NODE v14.0.0
